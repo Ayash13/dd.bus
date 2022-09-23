@@ -64,6 +64,14 @@ body{
     bottom: -100px;
     z-index: 100;
 }
+#music{
+    z-index: 100;
+    transform: translateY(50px);
+    position: absolute;
+    padding: 10px 100px;
+    border-radius: 20px;
+    bottom: -100px;
+}
 .description {
     position: relative;
     padding:10em;
